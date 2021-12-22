@@ -1,0 +1,6 @@
+# Set git to ignore any file in the */ directories
+Blend-Mode/
+August-Take/
+
+#
+design/*.png

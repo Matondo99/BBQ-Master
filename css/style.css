@@ -136,7 +136,7 @@ h3 {
 ============================================ */
 
 header {
-    min-height: 60vh;
+    min-height: 100vw;
     padding: 0 3rem 1.5rem;
     background: var(--clr-dark-100) url(../asset/jon-tyson-blur.jpg) center/cover no-repeat;
     background-blend-mode: multiply;
@@ -222,10 +222,10 @@ input:hover,
     body {
         font-size: var(--fs-201);
         flex-direction: row;
-        min-height: 100vh;
     }
     header {
         width: 60%;
+        min-height: 100vh;
     }
     main {
         width: 40%;
